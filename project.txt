@@ -1,0 +1,18 @@
+Firstly create a folder with the name Project
+Then give the path of the dataset train with respect to the your computer path with the dataset test with respect to your computer path
+
+open the terminal and give the commands:
+
+for the packages installation use the command:
+
+ pip install tensorflow keras matplotlib numpy opencv-python pillow
+
+ Then for training the dataset ie.preprocessing using the command:
+
+    python train_model.py
+
+Then for running the Front end use the command:
+
+    python gui.py
+
+you  will get the frontend output.
